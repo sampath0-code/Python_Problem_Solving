@@ -1,4 +1,5 @@
-# Simple solution|| Time Complexity O(N) || Space Complexity O(N)
+# Simple solution|| 
+Leetcode link https://leetcode.com/problems/two-sum/solutions/3117214/python-solution/
 <!-- Describe your first thoughts on how to solve this problem. -->
 
 # Approach : 
